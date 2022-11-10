@@ -1,10 +1,10 @@
 ---
-title: Hello World  love me  gc
+title: Hello World  
 ---
 
 ## edit from github
 
-hello 
+*hello 
 
 *welcome to my blog
 
