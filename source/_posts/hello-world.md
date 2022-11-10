@@ -1,39 +1,19 @@
 ---
 title: Hello World  love me  gc
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+
 ## edit from github
 
-## Quick Start
+hello 
 
-### Create a new post
+*welcome to my blog
 
-``` bash
-$ hexo new "My New Post"
-```
+*今天是2022年11月10号我开始写我博客的第一篇文章
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+*以后我会在这个博客里记录我的学习历程
 
-### Run server
+O(∩_∩)O
 
-``` bash
-$ hexo server
-```
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
