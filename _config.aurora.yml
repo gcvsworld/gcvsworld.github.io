@@ -9,10 +9,10 @@
 #！ @docs https://aurora.tridiamond.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: Aurora's Blog
-  author: Aurora
-  nick: Auroral UI
-  description:
+  subtitle: Gcvsworld's Blog
+  author: gcvsworld
+  nick: Gcvsworld
+  description: 一个正在努力学习前端知识的年轻人
   link: '/'
   language: en
   multi_language: true
