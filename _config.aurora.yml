@@ -14,7 +14,7 @@ site:
   nick: Gcvsworld
   description: 一个正在努力学习前端知识的年轻人<br /> 我的github：<b>https://github.com/gcvsworld</b>
   link: '/'
-  language: en
+  language: cn
   multi_language: true
   logo: https://img-blog.csdnimg.cn/20210313122054101.png
   avatar: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.duoziwang.com%2F2018%2F21%2F08290851310819.jpg&refer=http%3A%2F%2Fimg.duoziwang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1670741853&t=768f7a87c4f6627b97d2c21147c21e6f #!原图 https://img-blog.csdnimg.cn/20210313122054101.png
@@ -49,7 +49,9 @@ menu:
   Archives: true
 # 一个 github 项目的外部链接
   Aurora:
-    name: '文章更改/新增'
+    name: 'Article changes/additions'
+      cn: '文章更改/添加'
+      en: 'Article changes/additions'
     path: 'https://github.com/gcvsworld/gcvsworld.github.io/tree/myblog/source/_posts'
 
     # 自定义菜单
