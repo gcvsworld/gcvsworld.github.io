@@ -50,6 +50,7 @@ menu:
 # 一个 github 项目的外部链接
   Aurora:
     name: 'Article changes/additions'
+    i18n:
       cn: '文章更改/添加'
       en: 'Article changes/additions'
     path: 'https://github.com/gcvsworld/gcvsworld.github.io/tree/myblog/source/_posts'
