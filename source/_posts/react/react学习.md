@@ -33,8 +33,7 @@ var element = React.creatElement("h1",null,"Hello,world !");
 ## JSX的好处有什么？
 *利用JSX语法扩展极大的极大的简化了代码，提升了开发效率*
 *更重要的是*
-![image](https://thumbnail0.baidupcs.com/thumbnail/190b402fcq32d5ce455be5392700df87?fid=3031270481-250528-587206677233301&time=1668337200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-A7glHU3w5lua%2BrBkY5NjFEMbwlk%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=430034431753523743&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video)
-
+![image](https://thumbnail0.baidupcs.com/thumbnail/190b402fcq32d5ce455be5392700df87?fid=3031270481-250528-587206677233301&time=1668492000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Ipc7usRD07BdYXGrZeK0G6hgiTE%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=471563202569812285&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video)
 *在React之前Jq时代html 和 js 是分开的，人们在写代码时的往往会把UI逻辑和展示逻辑分开，我们本来就是在用js不停的改变ui分开思考反而会带来很多的操作不便和编程的低效*
 *JSX将html和js甚至css都可以写在一起，可以用js的思维去思考整个UI逻辑，而不用像传统模式那样切换一个新的语法上下文，一会去这个文件写写html，一会去另一个文件写写js*
 ---
